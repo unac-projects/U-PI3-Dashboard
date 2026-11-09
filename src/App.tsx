@@ -4,7 +4,7 @@ import LandingPage from "./components/LandingPage";
 import Dashboard from "./components/Dashboard";
 import DashboardHome from "./components/modules/DashboardHome";
 import ImplementosModule from "./components/modules/ImplementosModule";
-import EspaciosModule from "./components/modules/EspaciosModule";
+import { EspaciosModule } from "./components/modules/EspaciosModule";
 import CitasModule from "./components/modules/CitasModule";
 
 export function App() {
